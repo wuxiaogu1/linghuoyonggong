@@ -19,7 +19,7 @@
 - 1030339985@qq.com 
 
 #### 演示站点
-- 网址：http://106.12.23.162
+- 网址：https://www.linggong.org.cn
 - 用户名：demo
 - 密码：abcd1234
 
