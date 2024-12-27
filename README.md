@@ -22,7 +22,7 @@
 
 #### 演示站点
 - 网址：https://www.linggong.org.cn
-- 用户名：qiye
+- 用户名：demo
 - 密码：abcd1234
 
 #### 软件架构
